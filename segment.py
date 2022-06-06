@@ -26,7 +26,7 @@ def findEnd(start, black, black_max, width):
     return end
 
 
-def segmentCharacters(cropped, frameNumber, timestamp, writer, allPlates, frameList, timeList):
+def segment_characters(cropped, frameNumber, timestamp, writer, allPlates, frameList, timeList):
     number = [frameNumber]
     time = [timestamp]
 
