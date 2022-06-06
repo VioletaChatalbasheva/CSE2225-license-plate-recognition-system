@@ -1,0 +1,5 @@
+# All dependencies need to be installed before initialization of the system.
+
+numpy~=1.18.5
+opencv-python~=4.5.5.64
+flake8
